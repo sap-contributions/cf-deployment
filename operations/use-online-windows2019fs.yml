@@ -13,6 +13,6 @@
   path: /releases/name=windowsfs?
   value:
     name: windowsfs
-    sha1: sha256:975e6c8a109f3dcec5e21865e239c9c43da9dbdb65c1422402483f8c2613f18c
-    url: https://bosh.io/d/github.com/cloudfoundry/windowsfs-online-release?v=2.90.0
-    version: 2.90.0
+    sha1: sha256:9bc245491087b6646cdd430e63b2bcd6e548df61d68ff2e03cb8bfd9491ccd8e
+    url: https://bosh.io/d/github.com/cloudfoundry/windowsfs-online-release?v=2.92.0
+    version: 2.92.0

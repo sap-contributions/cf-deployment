@@ -2,9 +2,9 @@
   path: /releases/-
   value:
     name: backup-and-restore-sdk
-    sha1: sha256:b93df8c606f77565da57c70dd353edc72d4759c4a70df3ce25ecc66d49a2f073
-    url: https://bosh.io/d/github.com/cloudfoundry-incubator/backup-and-restore-sdk-release?v=1.19.48
-    version: 1.19.48
+    sha1: sha256:6fb706efb68d4151387507c93b6aa6769cc8848c0f4c25bcf9e7bf2683f635bf
+    url: https://bosh.io/d/github.com/cloudfoundry-incubator/backup-and-restore-sdk-release?v=1.19.54
+    version: 1.19.54
 - type: replace
   path: /instance_groups/-
   value:

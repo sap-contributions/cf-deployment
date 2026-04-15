@@ -38,6 +38,6 @@
   path: /releases/name=otel-collector?
   value:
     name: otel-collector
-    sha1: sha256:afc34df08e435963c75d28e52413d21ab65a3f97eb9a74dc097dece856242ee3
-    url: https://bosh.io/d/github.com/cloudfoundry/otel-collector-release?v=0.11.5
-    version: 0.11.5
+    sha1: sha256:cef1a3dff9b0956a0e432ecc50f1bd6c790269248c6ec5d10ecedd9b52ff1cae
+    url: https://bosh.io/d/github.com/cloudfoundry/otel-collector-release?v=0.11.7
+    version: 0.11.7
